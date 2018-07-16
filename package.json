@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "netlify-lambda": "^0.4.0",
+    "node": "^10.6.0",
+    "request": "^2.87.0",
+    "sha1": "^1.1.1"
+  }
+}
